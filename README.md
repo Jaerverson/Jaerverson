@@ -22,7 +22,7 @@
 
 <a href="#">
 
-<img alt="Git" src="https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=git&logoColor=white" />
+  <img alt="git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg">
 
 </a>
 
@@ -31,6 +31,15 @@
 <a href="#">
 <img alt="NPM" src="https://img.shields.io/badge/NPM-CB3837.svg?style=for-the-badge&logo=npm&logoColor=white" />
 </a>
+
+<a href="#">
+  <img alt="vite" src="https://raw.githubusercontent.com/LivioAlvarenga/LivioAlvarenga/3c6e62cf6789eea4733372d2a109ee3f8a5a42d4/files/vite.svg">
+</a>
+
+<a href="#">
+
+</a>
+
 
 ### 🎨 Design tools
 
