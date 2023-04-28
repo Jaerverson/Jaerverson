@@ -22,7 +22,7 @@
 
 <a href="#">
 
-  <img alt="git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg">
+<img alt="Git" src="https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=git&logoColor=white" />
 
 </a>
 
