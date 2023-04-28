@@ -1,6 +1,6 @@
 #  Jaerverson
 
-<img align="right" src="https://komarev.com/ghpvc/?username=Jaerverson/in/jaerverson-melo-2b1702207/)" alt="Jaerverson's Profile Views" />
+<img align="right" src="https://komarev.com/ghpvc/?username=Jaérverson Melo" alt="Jaerverson's Profile Views" />
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-Jaerverson Melo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https:https://www.linkedin.com/in/jaerverson-melo-2b1702207/)](https://www.linkedin.com/in/jaérverson-melo-2b1702207/)
 
