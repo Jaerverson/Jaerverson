@@ -2,9 +2,9 @@
 
 <img align="right" src="https://komarev.com/ghpvc/?username=Jaerverson Melo" alt="Jaerverson's Profile Views" />
 
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-Jaerverson Melo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https:https://www.linkedin.com/in/jaérverson-melo-2b1702207/)](https://www.linkedin.com/in/jaérverson-melo-2b1702207/)
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-Jaerverson Melo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https:https://www.linkedin.com/in/jaerverson-melo-2b1702207/)](https://www.linkedin.com/in/jaérverson-melo-2b1702207/)
 
-[![Gmail Badge](https://img.shields.io/badge/hiansebasthian.silva@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jaerversonwagner@gmail.com
+[![Gmail Badge](https://img.shields.io/badge/jaerversonwagner@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jaerversonwagner@gmail.com
 )](mailto:jaerversonwagner@gmail.com)
 
 ##  About me
